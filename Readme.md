@@ -1,17 +1,3 @@
-threejs-stencil-highlight/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── main.js         # Entry point
-│   ├── scene.js        # Scene setup with objects
-│   ├── highlight.js    # Stencil highlight logic
-│   └── controls.js     # OrbitControls setup
-│
-├── package.json
-└── README.md
-
 
 # Three.js Interactive 3D Scene
 
