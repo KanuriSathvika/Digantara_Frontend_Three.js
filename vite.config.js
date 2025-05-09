@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: './',  // Changed to relative path for better compatibility
+  base: '/Digantara_Frontend_Three.js/',  // Updated to match repository name for GitHub Pages
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
